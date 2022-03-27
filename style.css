@@ -106,7 +106,7 @@ p {
 }
 :root {
   --color-text-default: #0C4966;
-  --color-text-default-light: rgba(55,53,47,0.6);
+  --color-text-default-light: #DDE5EA;
   --color-text-gray: #9b9a97;
   --color-text-brown: #64473a;
   --color-text-orange: #d9730d;
@@ -150,10 +150,17 @@ p {
 .notion-link.super-navbar__item {
   font-size: 1.2em !important;
   font-weight: !important;
+  opacity: .7;
   font-family: Barlow, sans-serif;
 }
 .notion-header__title {
   font-family: Barlow;
 }
 
+.link {
+    color: inherit;
+    text-decoration: none;
+    border-bottom: 1px solid var(--color-text-default-light);
+    opacity: .7;
+    transition: border-color .1s ease-in,opacity .1s ease-in;
 
