@@ -110,7 +110,7 @@ p {
   --color-text-gray: #9b9a97;
   --color-text-brown: #64473a;
   --color-text-orange: #d9730d;
-  --color-text-yellow: #dfab01;
+  --color-text-yellow: #D9F4A4;
   --color-text-green: #0f7b6c;
   --color-text-blue: #0b6e99;
   --color-text-purple: #6940a5;
@@ -120,7 +120,7 @@ p {
   --color-bg-gray: #ebeced;
   --color-bg-brown: #e9e5e3;
   --color-bg-orange: #faebdd;
-  --color-bg-yellow: #fbf3db;
+  --color-bg-yellow: #D9F4A4;
   --color-bg-green: #ddedea;
   --color-bg-blue: #DDE5EA;
   --color-bg-purple: #eae4f2;
@@ -135,7 +135,7 @@ p {
   --color-bg-purple-light: rgba(234,228,242,0.3);
   --color-bg-pink-light: rgba(244,223,235,0.3);
   --color-bg-red-light: rgba(251,228,228,0.3);
-  --color-pill-default: rgba(206,205,202,0.5);
+  --color-pill-default: #DDE5EA;
   --color-pill-gray: hsla(45,2%,60%,0.4);
   --color-pill-brown: rgba(140,46,0,0.2);
   --color-pill-orange: rgba(245,93,0,0.2);
