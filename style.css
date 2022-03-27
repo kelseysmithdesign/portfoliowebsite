@@ -93,7 +93,7 @@ p {
 }
 
 .notion-divider {
-    border-bottom: 1px solid var(--color-bg-brown) !important;
+    border-bottom: 1px solid var(--color-bg-blue) !important;
 }
 
 #block-cd0c0e6db1af4a029716bf307f95bc3b a {
@@ -122,7 +122,7 @@ p {
   --color-bg-orange: #faebdd;
   --color-bg-yellow: #fbf3db;
   --color-bg-green: #ddedea;
-  --color-bg-blue: #ddebf1;
+  --color-bg-blue: #DDE5EA;
   --color-bg-purple: #eae4f2;
   --color-bg-pink: #f4dfeb;
   --color-bg-red: #fbe4e4;
