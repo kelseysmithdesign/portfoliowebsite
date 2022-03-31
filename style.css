@@ -59,7 +59,7 @@ grid-template-columns: 1fr !important;
 
 .notion-collection__header,
 .notion-property__title__icon-wrapper,
-.notion-toggle 
+.notion-toggle, 
 .notion-page__icon {
     display: none !important;
 }
@@ -181,6 +181,7 @@ font-weight: 700 !important;
     border-bottom: 1px solid;
     opacity: .7;
     transition: border-color .1s ease-in,opacity .1s ease-in;
+}
 
 .notion-pill {
     padding: 0 8px 2px;
