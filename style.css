@@ -153,6 +153,7 @@ p {
   opacity: .7;
   font-family: Barlow, sans-serif;
 }
+
 .notion-header__title {
   font-family: Barlow;
 }
@@ -163,3 +164,4 @@ p {
     border-bottom: 1px solid;
     opacity: .7;
     transition: border-color .1s ease-in,opacity .1s ease-in;
+}
